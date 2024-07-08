@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Heya! 👋
+I'm d3edle - currently a high school student, and just a dev that wants to make something fun (if my brain will let me)
 <!--
 **d3edle/d3edle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
