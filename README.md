@@ -1,5 +1,5 @@
 ## Heya! 👋
-I'm d3edle - a developer at western trying to make something fun (if my brain will let me)
+I'm d3edle - a student at western that occassionally makes something I think is fun (if my brain will let me)
 <!--
 **d3edle/d3edle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
