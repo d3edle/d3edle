@@ -1,16 +1,26 @@
-## Heya! 👋
-I'm d3edle - a student at western that occassionally makes fun stuff (if my brain lets me)
+## Heya! I'm Daniel👋 
+
+👨🏻‍💻 **About Me**
+
+I'm currently...
+
+🎓 Studying Engineering at Western University 
+
+:robot: Interested in all things automation and hardware  
+
+🏸 Playing badminton when I can and :video_game: occasionally Smash Ultimate
+
+🛠 My Creations  
+[Stonker](https://github.com/d3edle/stonker): A stock watchlist Discord bot!  
+[Memory but E-Waste](https://github.com/d3edle/Memory-but-E-Waste/tree/main ): An e-waste-centered replica of the classic card game memory!
+
+
 <!--
-**d3edle/d3edle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
