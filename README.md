@@ -4,15 +4,15 @@
 
 I'm currently...
 
-🎓 Studying Engineering at Western University 
+- 🎓 Studying Engineering at Western University 
 
-:robot: Interested in all things automation and hardware  
+- :robot: Interested in all things automation and hardware  
 
-🏸 Playing badminton when I can and :video_game: occasionally Smash Ultimate
+- 🏸 Playing badminton when I can and :video_game: occasionally Smash Ultimate
 
 🛠 My Creations  
-[Stonker](https://github.com/d3edle/stonker): A stock watchlist Discord bot!  
-[Memory but E-Waste](https://github.com/d3edle/Memory-but-E-Waste/tree/main ): An e-waste-centered replica of the classic card game memory!
+- [Stonker](https://github.com/d3edle/stonker): A stock watchlist Discord bot!  
+- [Memory but E-Waste](https://github.com/d3edle/Memory-but-E-Waste/tree/main ): An e-waste-centered replica of the classic card game memory!
 
 
 <!--
