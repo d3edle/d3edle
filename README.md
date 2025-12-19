@@ -4,10 +4,8 @@
 
 I'm currently...
 
-- 🎓 Studying Engineering at Western University 
-
+- 🎓 Studying Engineering at Western University  
 - :robot: Interested in all things automation and hardware  
-
 - 🏸 Playing badminton when I can and :video_game: occasionally Smash Ultimate
 
 🛠 My Creations  
